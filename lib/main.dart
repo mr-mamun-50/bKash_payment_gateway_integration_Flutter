@@ -1,7 +1,15 @@
+import 'package:elegen_notipay/api/firebase_api.dart';
 import 'package:elegen_notipay/page/home.dart';
+import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
+import 'firebase_options.dart';
 
-void main() {
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(
+    options: DefaultFirebaseOptions.currentPlatform,
+  );
+  await FirebaseAPI().initNotifications();
   runApp(const MyApp());
 }
 

@@ -15,7 +15,19 @@ class _PaymentState extends State<Payment> {
   bool isLoading = false;
 
   Future<void> paymentCheckout(double amount) async {
+    // sandbox
     final flutterBkash = FlutterBkash();
+
+    //  production
+    // final flutterBkash = FlutterBkash(
+    //   credentials: BkashCredentials(
+    //     username: "app_username",
+    //     password: "app_password",
+    //     appKey: "app_key",
+    //     appSecret: "app_secret",
+    //     isSandbox: false,
+    //   ),
+    // );
 
     /// Goto BkashPayment page & pass the params
     try {

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>40619267017-q9ls00nt6srt233msnaeqjhehpvij8m2.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.40619267017-q9ls00nt6srt233msnaeqjhehpvij8m2</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCIECp9FBH-UxS9xp00JNHLUCuGtePEsJc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>40619267017</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.elegensolutions.elegenNotipay</string>
+	<key>PROJECT_ID</key>
+	<string>notipay-5fb6c</string>
+	<key>STORAGE_BUCKET</key>
+	<string>notipay-5fb6c.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:40619267017:ios:54cc7c72be5342b0a5ce18</string>
+</dict>
+</plist>

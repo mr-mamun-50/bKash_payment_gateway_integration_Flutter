@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "40619267017",
+    "project_id": "notipay-5fb6c",
+    "storage_bucket": "notipay-5fb6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:40619267017:android:df860d9a967587fba5ce18",
+        "android_client_info": {
+          "package_name": "com.elegensolutions.elegen_notipay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "40619267017-qjh9fueoipsjsljcebibb1ueureaheji.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAr4wyOe9fVfnVEfSW5lLwHi3YdkD0DXpk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "40619267017-qjh9fueoipsjsljcebibb1ueureaheji.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "40619267017-h97ngfr77e7kqdtlonj6b6au057iuii8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.elegensolutions.notipay"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
